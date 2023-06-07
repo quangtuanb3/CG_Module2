@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CG_Module2.iml" filepath="$PROJECT_DIR$/.idea/CG_Module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/Exercise/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" filepath="$PROJECT_DIR$/Exercise/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/daysOfMonth/daysOfMonth.iml" filepath="$PROJECT_DIR$/Exercise/daysOfMonth/daysOfMonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/exchangeMoney/exchangeMoney.iml" filepath="$PROJECT_DIR$/Exercise/exchangeMoney/exchangeMoney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/getBMI/getBMI.iml" filepath="$PROJECT_DIR$/Exercise/getBMI/getBMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/operator-expression/operator-expression.iml" filepath="$PROJECT_DIR$/Exercise/operator-expression/operator-expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/readNumber/readNumber.iml" filepath="$PROJECT_DIR$/Exercise/readNumber/readNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/sayHello/sayHello.iml" filepath="$PROJECT_DIR$/Exercise/sayHello/sayHello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/system_time/system_time.iml" filepath="$PROJECT_DIR$/Exercise/system_time/system_time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/variable/variable.iml" filepath="$PROJECT_DIR$/Exercise/variable/variable.iml" />
+    </modules>
+  </component>
+</project>

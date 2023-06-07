@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercise.iml" filepath="$PROJECT_DIR$/.idea/Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" filepath="$PROJECT_DIR$/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daysOfMonth/daysOfMonth.iml" filepath="$PROJECT_DIR$/daysOfMonth/daysOfMonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getBMI/getBMI.iml" filepath="$PROJECT_DIR$/getBMI/getBMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operator-expression/operator-expression.iml" filepath="$PROJECT_DIR$/operator-expression/operator-expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system_time/system_time.iml" filepath="$PROJECT_DIR$/system_time/system_time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variable/variable.iml" filepath="$PROJECT_DIR$/variable/variable.iml" />
+    </modules>
+  </component>
+</project>
