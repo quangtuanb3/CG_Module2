@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Exercise.iml" filepath="$PROJECT_DIR$/.idea/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" filepath="$PROJECT_DIR$/Condition/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
@@ -17,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/Loop/printPrimeNumbers/printPrimeNumbers.iml" filepath="$PROJECT_DIR$/Loop/printPrimeNumbers/printPrimeNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/printPrimeUnder100/printPrimeUnder100.iml" filepath="$PROJECT_DIR$/Loop/printPrimeUnder100/printPrimeUnder100.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/readNumber/readNumber.iml" filepath="$PROJECT_DIR$/Condition/readNumber/readNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/reverseArray/reverseArray.iml" filepath="$PROJECT_DIR$/Array/reverseArray/reverseArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/sayHello/sayHello.iml" filepath="$PROJECT_DIR$/VariableOperatior/sayHello/sayHello.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/system_time/system_time.iml" filepath="$PROJECT_DIR$/VariableOperatior/system_time/system_time.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/variable/variable.iml" filepath="$PROJECT_DIR$/VariableOperatior/variable/variable.iml" />
