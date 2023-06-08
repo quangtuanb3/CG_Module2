@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/Condition/getMaxDiv/getMaxDiv.iml" filepath="$PROJECT_DIR$/Condition/getMaxDiv/getMaxDiv.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/operator-expression/operator-expression.iml" filepath="$PROJECT_DIR$/VariableOperatior/operator-expression/operator-expression.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/printPrimeNumbers/printPrimeNumbers.iml" filepath="$PROJECT_DIR$/Loop/printPrimeNumbers/printPrimeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/printPrimeUnder100/printPrimeUnder100.iml" filepath="$PROJECT_DIR$/Loop/printPrimeUnder100/printPrimeUnder100.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/readNumber/readNumber.iml" filepath="$PROJECT_DIR$/Condition/readNumber/readNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/sayHello/sayHello.iml" filepath="$PROJECT_DIR$/VariableOperatior/sayHello/sayHello.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/system_time/system_time.iml" filepath="$PROJECT_DIR$/VariableOperatior/system_time/system_time.iml" />
