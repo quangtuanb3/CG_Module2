@@ -3,13 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Exercise.iml" filepath="$PROJECT_DIR$/.idea/Exercise.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" filepath="$PROJECT_DIR$/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/daysOfMonth/daysOfMonth.iml" filepath="$PROJECT_DIR$/daysOfMonth/daysOfMonth.iml" />
-      <module fileurl="file://$PROJECT_DIR$/getBMI/getBMI.iml" filepath="$PROJECT_DIR$/getBMI/getBMI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/operator-expression/operator-expression.iml" filepath="$PROJECT_DIR$/operator-expression/operator-expression.iml" />
-      <module fileurl="file://$PROJECT_DIR$/system_time/system_time.iml" filepath="$PROJECT_DIR$/system_time/system_time.iml" />
-      <module fileurl="file://$PROJECT_DIR$/variable/variable.iml" filepath="$PROJECT_DIR$/variable/variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condition/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" filepath="$PROJECT_DIR$/Condition/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condition/checkPrime/checkPrime.iml" filepath="$PROJECT_DIR$/Condition/checkPrime/checkPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condition/daysOfMonth/daysOfMonth.iml" filepath="$PROJECT_DIR$/Condition/daysOfMonth/daysOfMonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condition/drawMenu/drawMenu.iml" filepath="$PROJECT_DIR$/Condition/drawMenu/drawMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condition/draw_menu_2/draw_menu_2.iml" filepath="$PROJECT_DIR$/Condition/draw_menu_2/draw_menu_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condition/exchangeMoney/exchangeMoney.iml" filepath="$PROJECT_DIR$/Condition/exchangeMoney/exchangeMoney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condition/getBMI/getBMI.iml" filepath="$PROJECT_DIR$/Condition/getBMI/getBMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condition/getIncome/getIncome.iml" filepath="$PROJECT_DIR$/Condition/getIncome/getIncome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condition/getMaxDiv/getMaxDiv.iml" filepath="$PROJECT_DIR$/Condition/getMaxDiv/getMaxDiv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariableOperatior/operator-expression/operator-expression.iml" filepath="$PROJECT_DIR$/VariableOperatior/operator-expression/operator-expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/printPrimeNumbers/printPrimeNumbers.iml" filepath="$PROJECT_DIR$/Loop/printPrimeNumbers/printPrimeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condition/readNumber/readNumber.iml" filepath="$PROJECT_DIR$/Condition/readNumber/readNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariableOperatior/sayHello/sayHello.iml" filepath="$PROJECT_DIR$/VariableOperatior/sayHello/sayHello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariableOperatior/system_time/system_time.iml" filepath="$PROJECT_DIR$/VariableOperatior/system_time/system_time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariableOperatior/variable/variable.iml" filepath="$PROJECT_DIR$/VariableOperatior/variable/variable.iml" />
     </modules>
   </component>
 </project>
