@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Condition/draw_menu_2/draw_menu_2.iml" filepath="$PROJECT_DIR$/Condition/draw_menu_2/draw_menu_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/exchangeMoney/exchangeMoney.iml" filepath="$PROJECT_DIR$/Condition/exchangeMoney/exchangeMoney.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/findElementOfArray/findElementOfArray.iml" filepath="$PROJECT_DIR$/Array/findElementOfArray/findElementOfArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/findMax/findMax.iml" filepath="$PROJECT_DIR$/Array/findMax/findMax.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/getBMI/getBMI.iml" filepath="$PROJECT_DIR$/Condition/getBMI/getBMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/getIncome/getIncome.iml" filepath="$PROJECT_DIR$/Condition/getIncome/getIncome.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/getMaxDiv/getMaxDiv.iml" filepath="$PROJECT_DIR$/Condition/getMaxDiv/getMaxDiv.iml" />
