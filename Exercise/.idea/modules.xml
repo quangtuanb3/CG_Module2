@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Array/exchangeTemperature/exchangeTemperature.iml" filepath="$PROJECT_DIR$/Array/exchangeTemperature/exchangeTemperature.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/findElementOfArray/findElementOfArray.iml" filepath="$PROJECT_DIR$/Array/findElementOfArray/findElementOfArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/findMax/findMax.iml" filepath="$PROJECT_DIR$/Array/findMax/findMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/findMin/findMin.iml" filepath="$PROJECT_DIR$/Array/findMin/findMin.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/getBMI/getBMI.iml" filepath="$PROJECT_DIR$/Condition/getBMI/getBMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/getIncome/getIncome.iml" filepath="$PROJECT_DIR$/Condition/getIncome/getIncome.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/getMaxDiv/getMaxDiv.iml" filepath="$PROJECT_DIR$/Condition/getMaxDiv/getMaxDiv.iml" />
