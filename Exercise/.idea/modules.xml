@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Condition/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" filepath="$PROJECT_DIR$/Condition/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/OOP/QuadraticEquation/QuadraticEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/RectangleClass/RectangleClass.iml" filepath="$PROJECT_DIR$/OOP/RectangleClass/RectangleClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/addElementToArray/addElementToArray.iml" filepath="$PROJECT_DIR$/Array/addElementToArray/addElementToArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/checkPrime/checkPrime.iml" filepath="$PROJECT_DIR$/Condition/checkPrime/checkPrime.iml" />

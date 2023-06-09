@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP/OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/RectangleClass/RectangleClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/RectangleClass/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/QuadraticEquation/QuadraticEquation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/QuadraticEquation/src/QuadraticEquation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -62,7 +61,7 @@
       <workItem from="1686207483269" duration="8907000" />
       <workItem from="1686233653215" duration="4078000" />
       <workItem from="1686271678113" duration="11474000" />
-      <workItem from="1686292508141" duration="1709000" />
+      <workItem from="1686292508141" duration="3463000" />
     </task>
     <servers />
   </component>
