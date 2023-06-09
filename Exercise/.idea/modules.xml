@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/addElementToArray/addElementToArray.iml" filepath="$PROJECT_DIR$/Array/addElementToArray/addElementToArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/checkPrime/checkPrime.iml" filepath="$PROJECT_DIR$/Condition/checkPrime/checkPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/combineArray/combineArray.iml" filepath="$PROJECT_DIR$/Array/combineArray/combineArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/daysOfMonth/daysOfMonth.iml" filepath="$PROJECT_DIR$/Condition/daysOfMonth/daysOfMonth.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/deleteElement/deleteElement.iml" filepath="$PROJECT_DIR$/Array/deleteElement/deleteElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/drawMenu/drawMenu.iml" filepath="$PROJECT_DIR$/Condition/drawMenu/drawMenu.iml" />
