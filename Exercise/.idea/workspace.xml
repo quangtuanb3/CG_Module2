@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP/StopWatch/StopWatch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/StopWatch/src/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Fan/Fan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Fan/src/Fan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -63,7 +63,7 @@
       <workItem from="1686271678113" duration="11474000" />
       <workItem from="1686292508141" duration="11437000" />
       <workItem from="1686316687063" duration="2937000" />
-      <workItem from="1686359964549" duration="1074000" />
+      <workItem from="1686359964549" duration="3787000" />
     </task>
     <servers />
   </component>
