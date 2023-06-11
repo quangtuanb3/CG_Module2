@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/OOP/StopWatch/StopWatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/addElementToArray/addElementToArray.iml" filepath="$PROJECT_DIR$/Array/addElementToArray/addElementToArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/checkPrime/checkPrime.iml" filepath="$PROJECT_DIR$/Condition/checkPrime/checkPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AcessModifier/circleClass/circleClass.iml" filepath="$PROJECT_DIR$/AcessModifier/circleClass/circleClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/combineArray/combineArray.iml" filepath="$PROJECT_DIR$/Array/combineArray/combineArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/countCharFrequency/countCharFrequency.iml" filepath="$PROJECT_DIR$/Array/countCharFrequency/countCharFrequency.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/daysOfMonth/daysOfMonth.iml" filepath="$PROJECT_DIR$/Condition/daysOfMonth/daysOfMonth.iml" />

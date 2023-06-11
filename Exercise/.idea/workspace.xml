@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AcessModifier/staticMethod/staticMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AcessModifier/staticProperty/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcessModifier/circleClass/circleClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcessModifier/circleClass/src/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <workItem from="1686316687063" duration="2937000" />
       <workItem from="1686359964549" duration="4065000" />
       <workItem from="1686449136342" duration="224000" />
-      <workItem from="1686488163228" duration="2170000" />
+      <workItem from="1686488163228" duration="3410000" />
     </task>
     <servers />
   </component>
