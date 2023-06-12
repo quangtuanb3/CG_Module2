@@ -41,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/sayHello/sayHello.iml" filepath="$PROJECT_DIR$/VariableOperatior/sayHello/sayHello.iml" />
       <module fileurl="file://$PROJECT_DIR$/AcessModifier/staticMethod/staticMethod.iml" filepath="$PROJECT_DIR$/AcessModifier/staticMethod/staticMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/AcessModifier/staticProperty/staticProperty.iml" filepath="$PROJECT_DIR$/AcessModifier/staticProperty/staticProperty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AcessModifier/student/student.iml" filepath="$PROJECT_DIR$/AcessModifier/student/student.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/studentScore/studentScore.iml" filepath="$PROJECT_DIR$/Array/studentScore/studentScore.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/system_time/system_time.iml" filepath="$PROJECT_DIR$/VariableOperatior/system_time/system_time.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/variable/variable.iml" filepath="$PROJECT_DIR$/VariableOperatior/variable/variable.iml" />
