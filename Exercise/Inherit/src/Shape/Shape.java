@@ -30,7 +30,7 @@ public class Shape {
 
     @Override
     public String toString() {
-        return this.filled ? "A shape with color " + this.color + "and filled" : "A shape with color " + this.color + "and not filled";
+        return this.filled ? "A shape with color " + this.color + "and filled" : "A shape with color " + this.color + " and not filled";
 
     }
 }

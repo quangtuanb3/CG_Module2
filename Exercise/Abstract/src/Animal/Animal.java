@@ -1,5 +1,4 @@
 package Animal;
-
 public abstract class Animal {
     private float weight = 1.0f;
     private float height = 1.0f;
