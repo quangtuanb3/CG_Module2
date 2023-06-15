@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Abstract/src/Comparable/ComparableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract/src/Comparable/RunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract/src/Comparator/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract/src/Comparator/TestComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Abstract/Abstract.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract/Abstract.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract/src/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract/src/Animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit/src/Point/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit/src/Point/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit/src/Shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit/src/Shape/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit/src/Shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit/src/Shape/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Abstract/Animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Abstract/Animal/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inherit/Point/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inherit/Point/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +50,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RunTest">
+  <component name="RunManager" selected="Application.TestComparator">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Abstract" />
@@ -97,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shape.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shape.Main" />
-      <module name="Inherit" />
+    <configuration name="TestComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comparator.TestComparator" />
+      <module name="Abstract" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shape.*" />
+          <option name="PATTERN" value="Comparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestComparator" />
         <item itemvalue="Application.RunTest" />
         <item itemvalue="Application.Point.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Shape.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +135,7 @@
       <workItem from="1686551947219" duration="8000" />
       <workItem from="1686750107526" duration="2886000" />
       <workItem from="1686790358722" duration="5598000" />
-      <workItem from="1686797503974" duration="4818000" />
+      <workItem from="1686797503974" duration="5471000" />
     </task>
     <servers />
   </component>
