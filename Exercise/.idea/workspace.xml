@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AcessModifier/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inherit/src/Circle/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inherit/src/Circle/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inherit/src/Circle/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inherit/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit/src/Shape/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inherit/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit/src/Shape/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inherit/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit/src/Shape/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inherit/src/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit/src/Shape/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inherit/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit/src/Shape/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +55,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Circle.Main" />
+      <module name="Inherit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Circle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,6 +94,8 @@
       <workItem from="1686488163228" duration="3841000" />
       <workItem from="1686531424738" duration="3921000" />
       <workItem from="1686551947219" duration="8000" />
+      <workItem from="1686750107526" duration="2886000" />
+      <workItem from="1686790358722" duration="1935000" />
     </task>
     <servers />
   </component>

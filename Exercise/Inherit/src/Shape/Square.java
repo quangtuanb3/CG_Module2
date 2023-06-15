@@ -1,3 +1,5 @@
+package Shape;
+
 public class Square extends Rectangle {
 
 
@@ -32,7 +34,7 @@ public class Square extends Rectangle {
     }
     @Override
     public String toString() {
-        return "A Square with side="
+        return "A Shape.Square with side="
                 + getSide()
                 + ", which is a subclass of "
                 + super.toString();

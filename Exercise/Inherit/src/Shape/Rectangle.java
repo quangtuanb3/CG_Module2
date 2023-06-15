@@ -1,3 +1,5 @@
+package Shape;
+
 public class Rectangle extends Shape {
     private double width = 1.0;
     private double length = 1.0;
@@ -46,7 +48,7 @@ public class Rectangle extends Shape {
 
     @Override
     public String toString() {
-        return "A Rectangle with width= " + this.width + ",and length= " + this.length + ", which is a subclass of " + super.toString();
+        return "A Shape.Rectangle with width= " + this.width + ",and length= " + this.length + ", which is a subclass of " + super.toString();
     }
 
 }
