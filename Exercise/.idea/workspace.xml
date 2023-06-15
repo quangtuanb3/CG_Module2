@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Inherit/src/Shape/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract/Abstract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract/src/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract/src/Animal/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract/src/Animal/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract/src/Animal/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit/src/Shape/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit/src/Shape/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,7 +53,21 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Shape.Main">
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Abstract" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Abstract" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Circle.Main" />
       <module name="Inherit" />
@@ -90,6 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Shape.Main" />
         <item itemvalue="Application.Point.Main" />
         <item itemvalue="Application.Main" />
@@ -117,7 +138,7 @@
       <workItem from="1686551947219" duration="8000" />
       <workItem from="1686750107526" duration="2886000" />
       <workItem from="1686790358722" duration="5598000" />
-      <workItem from="1686797503974" duration="363000" />
+      <workItem from="1686797503974" duration="2690000" />
     </task>
     <servers />
   </component>
