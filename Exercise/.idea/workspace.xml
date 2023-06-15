@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Inherit/src/Point/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inherit/src/Point/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inherit/src/Shape/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inherit/Circle/Cylinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inherit/Circle/Cylinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inherit/src/Shape/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit/src/Shape/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Point.Main">
+  <component name="RunManager" selected="Application.Shape.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Circle.Main" />
       <module name="Inherit" />
@@ -76,8 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Shape.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shape.Main" />
+      <module name="Inherit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shape.Main" />
         <item itemvalue="Application.Point.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -103,7 +116,8 @@
       <workItem from="1686531424738" duration="3921000" />
       <workItem from="1686551947219" duration="8000" />
       <workItem from="1686750107526" duration="2886000" />
-      <workItem from="1686790358722" duration="4688000" />
+      <workItem from="1686790358722" duration="5598000" />
+      <workItem from="1686797503974" duration="363000" />
     </task>
     <servers />
   </component>
