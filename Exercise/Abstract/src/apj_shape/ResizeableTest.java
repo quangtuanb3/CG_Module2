@@ -15,6 +15,7 @@ public class ResizeableTest {
         listShape.add(c2);
 
         Rectangle rec1 = new Rectangle(2.5, 3.8, "orange", true);
+        rec1.howToColor();
         listShape.add(rec1);
         percent = Math.random() * 100;
         Rectangle rec2 = new Rectangle();
@@ -23,7 +24,9 @@ public class ResizeableTest {
         rec2.setColor(rec1.getColor());
         rec2.setFilled(rec1.isFilled());
         rec2.resize(percent);
+        rec2.howToColor();
         listShape.add(rec2);
+
 
         for (Shape shape : listShape){
             System.out.println(shape);

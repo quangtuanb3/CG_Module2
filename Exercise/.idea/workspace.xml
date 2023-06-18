@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Abstract/src/apj_shape/Resizeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract/src/apj_shape/ResizeableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringDemo/StringDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringDemo/src/StringBufferSync.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringDemo/src/StringBufferWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringDemo/src/StringBuilderWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringDemo/src/StringPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract/src/apj_shape/Colorable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract/src/apj_shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract/src/apj_shape/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract/src/apj_shape/ResizeableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract/src/apj_shape/ResizeableTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +135,7 @@
       <workItem from="1686877198271" duration="749000" />
       <workItem from="1686878604638" duration="9000" />
       <workItem from="1687051846999" duration="206000" />
-      <workItem from="1687052337731" duration="1911000" />
+      <workItem from="1687052337731" duration="2479000" />
     </task>
     <servers />
   </component>
