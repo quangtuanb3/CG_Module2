@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Abstract/src/apj_shape/Colorable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract/src/apj_shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract/src/apj_shape/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract/src/apj_shape/ResizeableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract/src/apj_shape/ResizeableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/ImplSimpleList/src/MyList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ResizeableTest">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="StringDemo" />
@@ -84,26 +82,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comparator.TestComparator" />
-      <module name="Abstract" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Comparator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="ImplSimpleList" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ResizeableTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.StringPool" />
         <item itemvalue="Application.StringBufferSync" />
-        <item itemvalue="Application.TestComparator" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +127,7 @@
       <workItem from="1686877198271" duration="749000" />
       <workItem from="1686878604638" duration="9000" />
       <workItem from="1687051846999" duration="206000" />
-      <workItem from="1687052337731" duration="2479000" />
+      <workItem from="1687052337731" duration="3525000" />
     </task>
     <servers />
   </component>

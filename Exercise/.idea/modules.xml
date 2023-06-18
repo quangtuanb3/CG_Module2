@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/AcessModifier/AcessModifier.iml" filepath="$PROJECT_DIR$/AcessModifier/AcessModifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Exercise.iml" filepath="$PROJECT_DIR$/.idea/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Fan/Fan.iml" filepath="$PROJECT_DIR$/OOP/Fan/Fan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/ImplSimpleList/ImplSimpleList.iml" filepath="$PROJECT_DIR$/DSA/ImplSimpleList/ImplSimpleList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inherit/Inherit.iml" filepath="$PROJECT_DIR$/Inherit/Inherit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" filepath="$PROJECT_DIR$/Condition/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
