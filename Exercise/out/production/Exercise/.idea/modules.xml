@@ -15,7 +15,6 @@
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/OOP/QuadraticEquation/QuadraticEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/RectangleClass/RectangleClass.iml" filepath="$PROJECT_DIR$/OOP/RectangleClass/RectangleClass.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DSA/StackImplLinkedList/StackImplLinkedList.iml" filepath="$PROJECT_DIR$/DSA/StackImplLinkedList/StackImplLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/OOP/StopWatch/StopWatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringDemo/StringDemo.iml" filepath="$PROJECT_DIR$/StringDemo/StringDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/addElementToArray/addElementToArray.iml" filepath="$PROJECT_DIR$/Array/addElementToArray/addElementToArray.iml" />
@@ -40,7 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/Array/getTotalOfDiagonal/getTotalOfDiagonal.iml" filepath="$PROJECT_DIR$/Array/getTotalOfDiagonal/getTotalOfDiagonal.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/implArrayList/implArrayList.iml" filepath="$PROJECT_DIR$/DSA/implArrayList/implArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/implLinkedList/implLinkedList.iml" filepath="$PROJECT_DIR$/DSA/implLinkedList/implLinkedList.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DSA/implLinkedListMethod/implLinkedListMethod.iml" filepath="$PROJECT_DIR$/DSA/implLinkedListMethod/implLinkedListMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/implArrayList/implLinkedListMethod/implLinkedListMethod.iml" filepath="$PROJECT_DIR$/DSA/implArrayList/implLinkedListMethod/implLinkedListMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/lengthOfLongestSubstring/lengthOfLongestSubstring.iml" filepath="$PROJECT_DIR$/Array/lengthOfLongestSubstring/lengthOfLongestSubstring.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/operator-expression/operator-expression.iml" filepath="$PROJECT_DIR$/VariableOperatior/operator-expression/operator-expression.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/printPrimeNumbers/printPrimeNumbers.iml" filepath="$PROJECT_DIR$/Loop/printPrimeNumbers/printPrimeNumbers.iml" />

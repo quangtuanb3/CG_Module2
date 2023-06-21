@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DSA/StackImplLinkedList/src/MyGenericStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/implLinkedListMethod/implLinkedListMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/implArrayList/implLinkedListMethod/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/implLinkedListMethod/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/implArrayList/implLinkedListMethod/implLinkedListMethod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/StackImplLinkedList/StackImplLinkedList.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/implArrayList/implLinkedListMethod/src/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/implLinkedListMethod/src/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/implArrayList/implLinkedListMethod/src/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/implLinkedListMethod/src/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/implArrayList/implLinkedListMethod/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/implLinkedListMethod/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/implLinkedListMethod/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/implLinkedListMethod/MyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/implLinkedListMethod/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/implLinkedListMethod/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/implLinkedListMethod/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/implLinkedListMethod/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,49 +24,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://C:/Program Files/Java/jdk-11.0.18/lib/src.zip!/java.base/java/util/LinkedList.java" root0="SKIP_INSPECTION" />
-  </component>
   <component name="ProjectId" id="2QuD2u8605eFfrEAjgxUVkEzATr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "D:/CODEGYM/CG_Module2/Exercise",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CODEGYM/CG_Module2/Exercise&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\CODEGYM\CG_Module2\Exercise\DSA" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMapExample" />
-      <module name="Exercise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="StackImplLinkedList" />
+}</component>
+  <component name="RunManager" selected="Application.demo">
+    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListTest" />
+      <module name="implLinkedList" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,6 +59,13 @@
     <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyLinkedList" />
       <module name="implLinkedListMethod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="implArrayList" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MyLinkedList" />
-        <item itemvalue="Application.HashMapExample" />
         <item itemvalue="Application.demo" />
+        <item itemvalue="Application.MyLinkedList" />
         <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.LinkedListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -151,8 +130,7 @@
       <workItem from="1687255400215" duration="5000" />
       <workItem from="1687255599829" duration="1521000" />
       <workItem from="1687309687486" duration="4918000" />
-      <workItem from="1687316070629" duration="6377000" />
-      <workItem from="1687329891353" duration="2880000" />
+      <workItem from="1687316070629" duration="3816000" />
     </task>
     <servers />
   </component>
