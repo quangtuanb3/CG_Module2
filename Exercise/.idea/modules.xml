@@ -37,6 +37,7 @@
       <module fileurl="file://$PROJECT_DIR$/Condition/getMaxDiv/getMaxDiv.iml" filepath="$PROJECT_DIR$/Condition/getMaxDiv/getMaxDiv.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/getTotalOfColumnInMatrix/getTotalOfColumnInMatrix.iml" filepath="$PROJECT_DIR$/Array/getTotalOfColumnInMatrix/getTotalOfColumnInMatrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/getTotalOfDiagonal/getTotalOfDiagonal.iml" filepath="$PROJECT_DIR$/Array/getTotalOfDiagonal/getTotalOfDiagonal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/implArrayList/implArrayList.iml" filepath="$PROJECT_DIR$/DSA/implArrayList/implArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/implLinkedList/implLinkedList.iml" filepath="$PROJECT_DIR$/DSA/implLinkedList/implLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/lengthOfLongestSubstring/lengthOfLongestSubstring.iml" filepath="$PROJECT_DIR$/Array/lengthOfLongestSubstring/lengthOfLongestSubstring.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/operator-expression/operator-expression.iml" filepath="$PROJECT_DIR$/VariableOperatior/operator-expression/operator-expression.iml" />
