@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DSA/QueueImplLinkedList/QueueImplLinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/QueueImplLinkedList/src/MyLinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/QueueImplLinkedList/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/reverseUsingStack/reverseUsingStack.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/QueueImplLinkedList/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/QueueImplLinkedList/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <recent name="D:\CODEGYM\CG_Module2\Exercise\DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMapExample" />
       <module name="Exercise" />
@@ -70,6 +69,13 @@
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="QueueImplLinkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="reverseUsingStack" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,20 +94,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo" />
-      <module name="Exercise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MyLinkedList" />
         <item itemvalue="Application.HashMapExample" />
-        <item itemvalue="Application.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +142,7 @@
       <workItem from="1687309687486" duration="4918000" />
       <workItem from="1687316070629" duration="6377000" />
       <workItem from="1687329891353" duration="3668000" />
-      <workItem from="1687337481488" duration="646000" />
+      <workItem from="1687337481488" duration="3198000" />
     </task>
     <servers />
   </component>

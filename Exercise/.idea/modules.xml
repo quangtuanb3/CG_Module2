@@ -48,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/Loop/printPrimeUnder100/printPrimeUnder100.iml" filepath="$PROJECT_DIR$/Loop/printPrimeUnder100/printPrimeUnder100.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/readNumber/readNumber.iml" filepath="$PROJECT_DIR$/Condition/readNumber/readNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/reverseArray/reverseArray.iml" filepath="$PROJECT_DIR$/Array/reverseArray/reverseArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/reverseUsingStack/reverseUsingStack.iml" filepath="$PROJECT_DIR$/DSA/reverseUsingStack/reverseUsingStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/sayHello/sayHello.iml" filepath="$PROJECT_DIR$/VariableOperatior/sayHello/sayHello.iml" />
       <module fileurl="file://$PROJECT_DIR$/AcessModifier/staticMethod/staticMethod.iml" filepath="$PROJECT_DIR$/AcessModifier/staticMethod/staticMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/AcessModifier/staticProperty/staticProperty.iml" filepath="$PROJECT_DIR$/AcessModifier/staticProperty/staticProperty.iml" />
