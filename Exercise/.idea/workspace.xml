@@ -56,7 +56,7 @@
       <recent name="D:\CODEGYM\CG_Module2\Exercise\DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="toBinary" />
@@ -71,9 +71,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="implQueueCircle" />
+      <module name="checkBracket" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,7 @@
       <workItem from="1687402349532" duration="3782000" />
       <workItem from="1687409207946" duration="792000" />
       <workItem from="1687415896538" duration="337000" />
-      <workItem from="1687416511407" duration="4507000" />
+      <workItem from="1687416511407" duration="6301000" />
     </task>
     <servers />
   </component>
