@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DSA/QueueUsingArray/src/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/StackUsingArray/src/MyStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/QueueImplLinkedList/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/QueueImplLinkedList/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,14 +60,7 @@
       <recent name="D:\CODEGYM\CG_Module2\Exercise\DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="QueueImplLinkedList" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="reverseUsingStack" />
@@ -97,13 +89,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="StackUsingArray" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +148,10 @@
       <workItem from="1687353405134" duration="131000" />
       <workItem from="1687355934092" duration="4376000" />
       <workItem from="1687396752281" duration="2474000" />
-      <workItem from="1687402349532" duration="2613000" />
+      <workItem from="1687402349532" duration="3782000" />
+      <workItem from="1687409207946" duration="792000" />
+      <workItem from="1687415896538" duration="337000" />
+      <workItem from="1687416511407" duration="1798000" />
     </task>
     <servers />
   </component>
