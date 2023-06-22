@@ -60,6 +60,7 @@
       <module fileurl="file://$PROJECT_DIR$/Array/studentScore/studentScore.iml" filepath="$PROJECT_DIR$/Array/studentScore/studentScore.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/system_time/system_time.iml" filepath="$PROJECT_DIR$/VariableOperatior/system_time/system_time.iml" />
       <module fileurl="file://$PROJECT_DIR$/AcessModifier/test/test.iml" filepath="$PROJECT_DIR$/AcessModifier/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/toBinary/toBinary.iml" filepath="$PROJECT_DIR$/DSA/toBinary/toBinary.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/variable/variable.iml" filepath="$PROJECT_DIR$/VariableOperatior/variable/variable.iml" />
     </modules>
   </component>
