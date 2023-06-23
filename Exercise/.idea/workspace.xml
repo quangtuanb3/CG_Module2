@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="" />
+    <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DSA/recordStudents/recordStudents.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/recordStudents/src/SerializableUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abstract/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Abstract/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AcessModifier/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fan/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fan/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuadraticEquation/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuadraticEquation/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RectangleClass/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RectangleClass/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StopWatch/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StopWatch/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/addElementToArray/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/addElementToArray/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/circleClass/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/circleClass/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/combineArray/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/combineArray/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/countCharFrequency/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/countCharFrequency/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/deleteElement/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/deleteElement/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exchangeTemperature/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exchangeTemperature/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/findElementOfArray/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findElementOfArray/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/findMax/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findMax/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/findMaxInMatrix/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findMaxInMatrix/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/findMin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findMin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/getTotalOfColumnInMatrix/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/getTotalOfColumnInMatrix/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/getTotalOfDiagonal/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/getTotalOfDiagonal/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lengthOfLongestSubstring/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lengthOfLongestSubstring/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/printPrimeNumbers/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/printPrimeNumbers/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/printPrimeUnder100/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/printPrimeUnder100/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/reverseArray/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/reverseArray/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/staticProperty/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/staticProperty/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/student/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/student/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studentScore/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/studentScore/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +86,7 @@
       <recent name="D:\CODEGYM\CG_Module2\Exercise\DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="toBinary" />
@@ -78,9 +108,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="QueueUsingArray" />
+      <module name="recordStudents" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +177,9 @@
       <workItem from="1687402349532" duration="3782000" />
       <workItem from="1687409207946" duration="792000" />
       <workItem from="1687415896538" duration="337000" />
-      <workItem from="1687416511407" duration="6301000" />
+      <workItem from="1687416511407" duration="6463000" />
+      <workItem from="1687443051826" duration="3592000" />
+      <workItem from="1687482001613" duration="2934000" />
     </task>
     <servers />
   </component>

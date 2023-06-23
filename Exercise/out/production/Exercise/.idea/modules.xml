@@ -14,14 +14,20 @@
       <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/OOP/QuadraticEquation/QuadraticEquation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/QueueImplLinkedList/QueueImplLinkedList.iml" filepath="$PROJECT_DIR$/DSA/QueueImplLinkedList/QueueImplLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/QueueUsingArray/QueueUsingArray.iml" filepath="$PROJECT_DIR$/DSA/QueueUsingArray/QueueUsingArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/RectangleClass/RectangleClass.iml" filepath="$PROJECT_DIR$/OOP/RectangleClass/RectangleClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/StackImplLinkedList/StackImplLinkedList.iml" filepath="$PROJECT_DIR$/DSA/StackImplLinkedList/StackImplLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/StackUsingArray/StackUsingArray.iml" filepath="$PROJECT_DIR$/DSA/StackUsingArray/StackUsingArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/OOP/StopWatch/StopWatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringDemo/StringDemo.iml" filepath="$PROJECT_DIR$/StringDemo/StringDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/addElementToArray/addElementToArray.iml" filepath="$PROJECT_DIR$/Array/addElementToArray/addElementToArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/checkBracket/checkBracket.iml" filepath="$PROJECT_DIR$/DSA/checkBracket/checkBracket.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/checkPrime/checkPrime.iml" filepath="$PROJECT_DIR$/Condition/checkPrime/checkPrime.iml" />
       <module fileurl="file://$PROJECT_DIR$/AcessModifier/circleClass/circleClass.iml" filepath="$PROJECT_DIR$/AcessModifier/circleClass/circleClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/combineArray/combineArray.iml" filepath="$PROJECT_DIR$/Array/combineArray/combineArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/countCharFrequency/countCharFrequency.iml" filepath="$PROJECT_DIR$/Array/countCharFrequency/countCharFrequency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/countWord/countWord.iml" filepath="$PROJECT_DIR$/DSA/countWord/countWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/daysOfMonth/daysOfMonth.iml" filepath="$PROJECT_DIR$/Condition/daysOfMonth/daysOfMonth.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/deleteElement/deleteElement.iml" filepath="$PROJECT_DIR$/Array/deleteElement/deleteElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/drawMenu/drawMenu.iml" filepath="$PROJECT_DIR$/Condition/drawMenu/drawMenu.iml" />
@@ -39,13 +45,17 @@
       <module fileurl="file://$PROJECT_DIR$/Array/getTotalOfDiagonal/getTotalOfDiagonal.iml" filepath="$PROJECT_DIR$/Array/getTotalOfDiagonal/getTotalOfDiagonal.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/implArrayList/implArrayList.iml" filepath="$PROJECT_DIR$/DSA/implArrayList/implArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/implLinkedList/implLinkedList.iml" filepath="$PROJECT_DIR$/DSA/implLinkedList/implLinkedList.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DSA/implArrayList/implLinkedListMethod/implLinkedListMethod.iml" filepath="$PROJECT_DIR$/DSA/implArrayList/implLinkedListMethod/implLinkedListMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/implLinkedListMethod/implLinkedListMethod.iml" filepath="$PROJECT_DIR$/DSA/implLinkedListMethod/implLinkedListMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/implQueueCircle/implQueueCircle.iml" filepath="$PROJECT_DIR$/DSA/implQueueCircle/implQueueCircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/isPalindrome/isPalindrome.iml" filepath="$PROJECT_DIR$/DSA/isPalindrome/isPalindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/lengthOfLongestSubstring/lengthOfLongestSubstring.iml" filepath="$PROJECT_DIR$/Array/lengthOfLongestSubstring/lengthOfLongestSubstring.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/operator-expression/operator-expression.iml" filepath="$PROJECT_DIR$/VariableOperatior/operator-expression/operator-expression.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/printPrimeNumbers/printPrimeNumbers.iml" filepath="$PROJECT_DIR$/Loop/printPrimeNumbers/printPrimeNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/printPrimeUnder100/printPrimeUnder100.iml" filepath="$PROJECT_DIR$/Loop/printPrimeUnder100/printPrimeUnder100.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/readNumber/readNumber.iml" filepath="$PROJECT_DIR$/Condition/readNumber/readNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/recordStudents/recordStudents.iml" filepath="$PROJECT_DIR$/DSA/recordStudents/recordStudents.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/reverseArray/reverseArray.iml" filepath="$PROJECT_DIR$/Array/reverseArray/reverseArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/reverseUsingStack/reverseUsingStack.iml" filepath="$PROJECT_DIR$/DSA/reverseUsingStack/reverseUsingStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/sayHello/sayHello.iml" filepath="$PROJECT_DIR$/VariableOperatior/sayHello/sayHello.iml" />
       <module fileurl="file://$PROJECT_DIR$/AcessModifier/staticMethod/staticMethod.iml" filepath="$PROJECT_DIR$/AcessModifier/staticMethod/staticMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/AcessModifier/staticProperty/staticProperty.iml" filepath="$PROJECT_DIR$/AcessModifier/staticProperty/staticProperty.iml" />
@@ -53,6 +63,7 @@
       <module fileurl="file://$PROJECT_DIR$/Array/studentScore/studentScore.iml" filepath="$PROJECT_DIR$/Array/studentScore/studentScore.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/system_time/system_time.iml" filepath="$PROJECT_DIR$/VariableOperatior/system_time/system_time.iml" />
       <module fileurl="file://$PROJECT_DIR$/AcessModifier/test/test.iml" filepath="$PROJECT_DIR$/AcessModifier/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/toBinary/toBinary.iml" filepath="$PROJECT_DIR$/DSA/toBinary/toBinary.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/variable/variable.iml" filepath="$PROJECT_DIR$/VariableOperatior/variable/variable.iml" />
     </modules>
   </component>
