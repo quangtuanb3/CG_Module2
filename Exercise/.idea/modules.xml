@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Inherit/Inherit.iml" filepath="$PROJECT_DIR$/Inherit/Inherit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" filepath="$PROJECT_DIR$/Condition/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/Map/Map.iml" filepath="$PROJECT_DIR$/DSA/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/OOP/QuadraticEquation/QuadraticEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/QueueImplLinkedList/QueueImplLinkedList.iml" filepath="$PROJECT_DIR$/DSA/QueueImplLinkedList/QueueImplLinkedList.iml" />

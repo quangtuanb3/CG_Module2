@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DSA/Map/Map.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DSA/recordStudents/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/recordStudents/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/recordStudents/src/SerializableUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/recordStudents/src/SerializableUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/recordStudents/src/Students.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/recordStudents/src/Students.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/recordStudents/SerializableUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/recordStudents/SerializableUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/recordStudents/Students.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/recordStudents/Students.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <recent name="D:\CODEGYM\CG_Module2\Exercise\DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.StudentTest">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="toBinary" />
@@ -92,20 +90,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="StackUsingArray" />
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Student.StudentTest" />
+      <module name="Map" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentTest" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +160,7 @@
       <workItem from="1687415896538" duration="337000" />
       <workItem from="1687416511407" duration="6463000" />
       <workItem from="1687443051826" duration="3592000" />
-      <workItem from="1687482001613" duration="7071000" />
+      <workItem from="1687482001613" duration="8879000" />
     </task>
     <servers />
   </component>

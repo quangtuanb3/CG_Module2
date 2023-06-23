@@ -18,8 +18,6 @@ public class Main {
         Student f1 = new Student("Thu", LocalDate.of(2000, 2, 13), "Female", "0989989968");
         List<Student> students = Arrays.asList(m1, m2, m3, f1, f2, f3);
 
-        Comparator<Student> customComparator = Comparator.comparing(Student::getDateOfBirth);
-
         Queue<Student> allStudents = new PriorityQueue<>(Comparator.comparing(Student::getGender).thenComparing(Student::getDateOfBirth));
         for (Student s : students) {
             allStudents.offer(s);
