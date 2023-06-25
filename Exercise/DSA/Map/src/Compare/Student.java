@@ -1,6 +1,6 @@
-package Student;
+package Compare;
 
-public class Student {
+public class Student implements Comparable<Student> {
     private String name;
     private int age;
     private String address;
@@ -12,6 +12,12 @@ public class Student {
         this.name = name;
         this.age = age;
         this.address = address;
+
+    }
+
+    @Override
+    public int compareTo(Student s) {
+        return this.getName().compareTo(s.getName());
     }
 
     public String getName() {
@@ -30,15 +36,8 @@ public class Student {
         this.age = age;
     }
 
-    public String getAddress() {
-        return address;
-    }
-
-    public void setAddress(String address) {
-        this.address = address;
-    }
-
-    public String print() {
+    @Override
+    public String toString() {
         return "Student{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
