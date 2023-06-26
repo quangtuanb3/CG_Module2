@@ -1,4 +1,4 @@
-public class Main {
+public class BinarySearch {
     public static void main(String[] args) {
             int[] nums = {1,2,4,5,6,10,22,23,27,33,88};
             int index = getIndexOf(nums, 33);
