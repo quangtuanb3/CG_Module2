@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/AcessModifier/AcessModifier.iml" filepath="$PROJECT_DIR$/AcessModifier/AcessModifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Exercise.iml" filepath="$PROJECT_DIR$/.idea/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Fan/Fan.iml" filepath="$PROJECT_DIR$/OOP/Fan/Fan.iml" />
@@ -12,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/Inherit/Inherit.iml" filepath="$PROJECT_DIR$/Inherit/Inherit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Condition/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" filepath="$PROJECT_DIR$/Condition/Linear_Equation_Resolver/Linear_Equation_Resolver.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/Map/Map.iml" filepath="$PROJECT_DIR$/DSA/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/OOP/QuadraticEquation/QuadraticEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/QueueImplLinkedList/QueueImplLinkedList.iml" filepath="$PROJECT_DIR$/DSA/QueueImplLinkedList/QueueImplLinkedList.iml" />
@@ -57,6 +59,7 @@
       <module fileurl="file://$PROJECT_DIR$/Array/reverseArray/reverseArray.iml" filepath="$PROJECT_DIR$/Array/reverseArray/reverseArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/reverseUsingStack/reverseUsingStack.iml" filepath="$PROJECT_DIR$/DSA/reverseUsingStack/reverseUsingStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableOperatior/sayHello/sayHello.iml" filepath="$PROJECT_DIR$/VariableOperatior/sayHello/sayHello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchAlgorithm/searchAlgorithm.iml" filepath="$PROJECT_DIR$/searchAlgorithm/searchAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/AcessModifier/staticMethod/staticMethod.iml" filepath="$PROJECT_DIR$/AcessModifier/staticMethod/staticMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/AcessModifier/staticProperty/staticProperty.iml" filepath="$PROJECT_DIR$/AcessModifier/staticProperty/staticProperty.iml" />
       <module fileurl="file://$PROJECT_DIR$/AcessModifier/student/student.iml" filepath="$PROJECT_DIR$/AcessModifier/student/student.iml" />

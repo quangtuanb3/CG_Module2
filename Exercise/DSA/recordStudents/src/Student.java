@@ -1,9 +1,8 @@
-import java.io.Serial;
+
 import java.io.Serializable;
 import java.time.LocalDate;
 
 public class  Student  implements Serializable {
-    @Serial
     private static final long serialVersionUID = 123456789L;
     String name;
     LocalDate dateOfBirth;
