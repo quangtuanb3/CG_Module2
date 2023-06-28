@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class FindLongestWord {
     public static void main(String[] args) {
-        String str = "abcabcdabcdeaiklmnp";
+        String str = "abcdefghiklabcdabcdeaiklmnpqrstuvwyz";
         System.out.println("Input str: " + str);
         String result = findLongestWord(str);
         System.out.println("1: " + result);
@@ -35,6 +35,7 @@ public class FindLongestWord {
         index.add(str.length() - 1);
         int max = index.get(1) - index.get(0);
         StringBuilder result1 = new StringBuilder();
+        result1.append(str, 0, index.get(1));
         for (int i = 1; i < index.size() - 1; i++) {
             if (max < (index.get(i + 1) - index.get(i))) {
                 max = (index.get(i + 1) - index.get(i));
