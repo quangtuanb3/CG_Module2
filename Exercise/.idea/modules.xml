@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Exercise.iml" filepath="$PROJECT_DIR$/.idea/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Fan/Fan.iml" filepath="$PROJECT_DIR$/OOP/Fan/Fan.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/ImplSimpleList/ImplSimpleList.iml" filepath="$PROJECT_DIR$/DSA/ImplSimpleList/ImplSimpleList.iml" />
