@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exception/src/IllegalTriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exception/src/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +60,7 @@
       <recent name="D:\CODEGYM\CG_Module2\Exercise\DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
+  <component name="RunManager" selected="Application.IllegalTriangleException">
     <configuration name="BinarySearchRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearchRecursive" />
       <module name="Algorithm" />
@@ -81,9 +82,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindSquare" />
-      <module name="Algorithm" />
+    <configuration name="IllegalTriangleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IllegalTriangleException" />
+      <module name="Exception" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IllegalTriangleException" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.BinarySearchRecursive" />
         <item itemvalue="Application.BobExe" />
         <item itemvalue="Application.FindNum" />
-        <item itemvalue="Application.FindSquare" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +171,8 @@
       <workItem from="1688043645667" duration="2912000" />
       <workItem from="1688047824052" duration="7000" />
       <workItem from="1688089351406" duration="869000" />
-      <workItem from="1688090564848" duration="7951000" />
+      <workItem from="1688090564848" duration="8953000" />
+      <workItem from="1688109117407" duration="699000" />
     </task>
     <servers />
   </component>
