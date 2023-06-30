@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398b634c-7ebe-4bf4-b915-b266c93deda2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exception/src/NumberFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/BinarySearchRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/BobExe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/FindNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/FindSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOverRidding/DemoOverRidding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOverRidding/src/ChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOverRidding/src/ParentClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BubbleSort.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,23 +67,30 @@
       <recent name="D:\CODEGYM\CG_Module2\Exercise\DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumberFormatException">
-    <configuration name="ArrayIndexOutOfBoundsException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayIndexOutOfBoundsException" />
-      <module name="Exception" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountChar" />
+  <component name="RunManager" selected="Application.BinarySearchRecursive">
+    <configuration name="BinarySearchRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchRecursive" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindLongestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindLongestWord" />
+    <configuration name="BobExe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BobExe" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindNum" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindSquare" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,20 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortMethod" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchRecursive" />
+        <item itemvalue="Application.BobExe" />
+        <item itemvalue="Application.FindNum" />
+        <item itemvalue="Application.FindSquare" />
         <item itemvalue="Application.NumberFormatException" />
-        <item itemvalue="Application.ArrayIndexOutOfBoundsException" />
-        <item itemvalue="Application.SortMethod" />
-        <item itemvalue="Application.CountChar" />
-        <item itemvalue="Application.FindLongestWord" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +170,15 @@
       <workItem from="1687827591201" duration="13099000" />
       <workItem from="1687849325824" duration="3910000" />
       <workItem from="1687915229274" duration="814000" />
-      <workItem from="1687925138486" duration="2818000" />
+      <workItem from="1687925138486" duration="2903000" />
+      <workItem from="1687936493281" duration="3693000" />
+      <workItem from="1687947648664" duration="149000" />
+      <workItem from="1688001807608" duration="3172000" />
+      <workItem from="1688025513160" duration="2414000" />
+      <workItem from="1688043645667" duration="2912000" />
+      <workItem from="1688047824052" duration="7000" />
+      <workItem from="1688089351406" duration="869000" />
+      <workItem from="1688090564848" duration="3210000" />
     </task>
     <servers />
   </component>
